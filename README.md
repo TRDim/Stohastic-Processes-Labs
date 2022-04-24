@@ -1,6 +1,7 @@
 # Stohastic-Processes-Labs
 
 (2nd Semester Course of the MSc Data Science and Machine Learning from the NTUA)
+https://dsml.ece.ntua.gr/
 
 # StochasticsLabPublic
 This is the repository for the postgraduate course Stochastic Processes &amp; Optimization in Machine Learning. This course is included in the Data Science &amp; Machine Learning (DSML) program of the National Technical University of Athens (NTUA).  
