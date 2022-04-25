@@ -1,5 +1,4 @@
 # Stohastic-Processes-Labs
-
 (2nd Semester Course of the MSc Data Science and Machine Learning from the NTUA)
 
 https://dsml.ece.ntua.gr/
