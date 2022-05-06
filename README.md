@@ -3,6 +3,10 @@
 
 https://dsml.ece.ntua.gr/
 
+## Professors 
+
+• ‪Vasilis Maglaris‬ (http://www.netmode.ntua.gr/profiles/bmaglaris_en.html)
+
 ## Description
 
 Overview of Optimization Algorithms in Machine Learning: Supervised, Unsupervised, Competitive, Enhanced Learning. Linear & Logistic Regression, parameterization of Neural Networks with supervised learning, Back-Propagation Algorithm
